@@ -3,7 +3,9 @@
 
 https://ginaalina.github.io/leaflet-map-googlesheets-neu
 
+Auf Google Sheets:   https://docs.google.com/spreadsheets/d/1PzxvALMno-48g1vIhm0TmINZ_-TkvPrcnyGy7j1_WCc/edit#gid=0 
 
+--------------------
 ## Live links (replace with your own)
 - Leaflet Map https://jackdougherty.github.io/leaflet-maps-with-google-sheets/index.html
 - Google Sheets template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
