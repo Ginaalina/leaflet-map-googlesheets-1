@@ -3,7 +3,10 @@
 
 https://ginaalina.github.io/leaflet-map-googlesheets-neu
 
-Auf Google Sheets:   https://docs.google.com/spreadsheets/d/1PzxvALMno-48g1vIhm0TmINZ_-TkvPrcnyGy7j1_WCc/edit#gid=0 
+Auf Google Sheets:  
+Übung:   https://docs.google.com/spreadsheets/d/1PzxvALMno-48g1vIhm0TmINZ_-TkvPrcnyGy7j1_WCc/edit#gid=0 
+
+Projekt "Buchandlung":  https://docs.google.com/spreadsheets/d/1wBKM5et937Kt-dZURYtxBMIoqnCdtj3dFgnWDr9wp7o/edit#gid=0
 
 --------------------
 ## Live links (replace with your own)
